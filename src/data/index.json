@@ -1,0 +1,113 @@
+{
+  "dish": [
+    {
+      "id": "1",
+      "src": "./images/bruchetta.jpg",
+      "title": "Bruchetta",
+      "price": "5.99",
+      "description": "Our bruchetta is made from grilled bread has been smeared with garlic and seasoned with salt and olive oil"
+    },
+    {
+      "id": "2",
+      "src": "./images/greek salad.jpg",
+      "title": "Greek salad",
+      "price": "12.99",
+      "description": "The famous greek salad of crispy lettuce, peppers, olives and our Chicago style feta cheese, garnished with crunchy garlic and rosemary croutons"
+    },
+    {
+      "id": "3",
+      "src": "./images/lemon dessert.jpg",
+      "title": "Lemon Dessert",
+      "price": "6.99",
+      "description": "This comes straight from grandma's recipe book,every last ingredient has been sourced and is as authentic as can be imagined"
+    },
+    {
+      "id": "4",
+      "src": "./images/hamburger.jpg",
+      "title": "Hamburger",
+      "price": "9.99",
+      "description": "This come"
+    },
+    {
+      "id": "5",
+      "src": "./images/pizza.jpg",
+      "title": "Pizza Neopolitana",
+      "price": "20.59",
+      "description": "This come"
+    },
+    {
+      "id": "6",
+      "src": "./images/chicken.jpg",
+      "title": "Chicken Strips",
+      "price": "22.59",
+      "description": "This come"
+    },
+    {
+      "id": "7",
+      "src": "./images/corn.jpg",
+      "title": "Mexican Grilled Corn ",
+      "price": "7.99",
+      "description": "This come"
+    },
+    {
+      "id": "8",
+      "src": "./images/lasagne.jpg",
+      "title": "Lasagne from zucchini",
+      "price": "30.00",
+      "description": "This come"
+    },
+    {
+      "id": "9",
+      "src": "./images/losos.jpg",
+      "title": "Fried Salmon",
+      "price": "22.59",
+      "description": "This come"
+    },
+    {
+      "id": "10",
+      "src": "./images/buritto.jpg",
+      "title": "Burrito",
+      "price": "18.99",
+      "description": "This come"
+    },
+    {
+      "id": "11",
+      "src": "./images/kish.jpg",
+      "title": "Quiche",
+      "price": "28.59",
+      "description": "This come"
+    },
+    {
+      "id": "12",
+      "src": "./images/cake.jpg",
+      "title": "Raspberry cake",
+      "price": "5.59",
+      "description": "This come"
+    }
+  ],
+  "special": [
+    {
+      "id": "1",
+      "src": "./images/bruchetta.jpg",
+      "title": "Bruchetta",
+      "price": "5.99",
+      "description": "Our bruchetta is made from grilled bread has been smeared with garlic and seasoned with salt and olive oil"
+    },
+    {
+      "id": "2",
+      "src": "./images/greek salad.jpg",
+      "title": "Greek salad",
+      "price": "$12.99",
+      "description": "The famous greek salad of crispy lettuce, peppers, olives and our Chicago style feta cheese, garnished with crunchy garlic and rosemary croutons"
+    },
+    {
+      "id": "3",
+      "src": "./images/lemon dessert.jpg",
+      "title": "Lemon Dessert",
+      "price": "$6.99",
+      "description": "This comes straight from grandma's recipe book,every last ingredient has been sourced and is as authentic as can be imagined"
+    }
+
+  ]
+}
+
